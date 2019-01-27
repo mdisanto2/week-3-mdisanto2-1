@@ -1,1 +1,19 @@
-# 2019-week3
+# This week's Schedule (2/10 - 2/16)
+
+## Lecture
+[Data Preprocessing](https://docs.google.com/presentation/d/1cBurMjouka1DtNUtaEmzN2mzHmnzyv7kziRGmSCQNfI/edit?usp=sharing)
+
+## In-class Activities
++ Data Preprocessing
++ Principal Component Analysis (PCA) __DEMO only__
+
+You can clone these notebooks using the Github classroom's __invitation link__.
+Required data file(s) is in the './data/' folder.
+
+Besure to __complete__ the notebooks and __commit__ back.
+
+## Student Work
++ Continue on Competition 1 __Milestone Report Due on 2/19__
+  + required files can be found [here](https://github.com/fairfield-university-ba545/2019-Competition1)
+
++ mini-project#1 Part1  __DUE TODAY__
