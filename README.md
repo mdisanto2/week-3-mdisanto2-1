@@ -5,10 +5,10 @@
 
 ## In-class Activities
 + Data Preprocessing
-+ Principal Component Analysis (PCA) __DEMO only__
++ Principal Component Analysis (PCA) __Instructor Demo only__
 
 You can clone these notebooks using the Github classroom's __invitation link__.
-Required data file(s) is in the './data/' folder.
+Required data file(s) is in the './data/' folder, if any.
 
 Besure to __complete__ the notebooks and __commit__ back.
 
