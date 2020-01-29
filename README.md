@@ -8,9 +8,10 @@
 + Principal Component Analysis (PCA) __Instructor Demo only__
 
 You can clone these notebooks using the Github classroom's __invitation link__.
+
 Required data file(s) is in the './data/' folder, if any.
 
-Besure to __complete__ the notebooks and __commit__ back.
+Be sure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
 + Continue on Competition 1 __Milestone Report Due on 2/11__
