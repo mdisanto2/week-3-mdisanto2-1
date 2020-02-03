@@ -5,7 +5,7 @@
 
 ## In-class Activities
 + Data Preprocessing
-+ Principal Component Analysis (PCA) __Instructor Demo only__
++ Principal Component Analysis (PCA) <!--__Instructor Demo only__-->
 
 You can clone these notebooks using the Github classroom's __invitation link__.
 
